@@ -1,25 +1,3 @@
-# to-do
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-
-
+1. Реализовано 2 страничное приложение с использованием VUEX и Vue Router
+2. На первой странице можно добавить задачу
+3. На второй странице можно просмотреть добавленные задачи а также удалить либо редактировать задачу
